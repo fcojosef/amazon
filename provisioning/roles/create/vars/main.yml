@@ -1,0 +1,8 @@
+---
+# vars file for create
+instance_type: t2.medium
+security_group: giropops
+image: ami-09f9d773751b9d606
+keypair: guido
+region: us-east-1
+count: 3
